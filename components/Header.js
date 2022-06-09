@@ -33,7 +33,7 @@ const Header = ({onSearch}) => {
       fontFamily:FONTS.regular,
       fontSize:SIZES.small,
     color:COLORS.white,
-    }}>Hello Drey</Text>
+    }}>Hello Drey 👋</Text>
 
     <Text style={{
       fontFamily:FONTS.bold,
